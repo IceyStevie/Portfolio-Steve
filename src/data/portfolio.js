@@ -87,7 +87,7 @@ export default {
     judul: 'Teknik Informatika, Politeknik Negeri Batam',
     periode: '[2023] sampai [2026] · IPK [3,64]',
     catatan:
-      'Tugas akhir: [Judul tugas akhir dan satu kalimat hasilnya]. [Mata kuliah atau penghargaan yang relevan.]'
+      'Tugas akhir: Rancang Bangun Aplikasi Web E-Checksheet untuk Optimalisasi Proses Quality Control pada PT XYZ'
   },
 
   pengalaman: [
@@ -97,6 +97,9 @@ export default {
       poin: [
         'Membangun aplikasi web E-Checksheet untuk mempermudah proses quality control.',
         'Memperbaiki banyak bug di sistem ERP Odoo17 yang digunakan perusahaan.',
+        'Membantu tim frontend dan backend dalam pengembangan aplikasi web internal perusahaan.',
+        'Mengikuti proses pengembangan perangkat lunak berbasis Agile, termasuk daily standup, sprint planning, dan code review.',
+        'Memperbaiki scheduler di Odoo17 agar proses produksi berjalan lebih efisien.'
       ]
     }
   ],
